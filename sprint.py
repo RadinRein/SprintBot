@@ -1,7 +1,4 @@
-"""APP ID :856885365524529214
-Public Key :a27e021639c8c8ec1fd8735566e7472e35a5c97c619234d4538b09f368d7d16c
-Token : ODU2ODg1MzY1NTI0NTI5MjE0.YNHirw.Wjncn5ikWndMCTdRBi6iH-atADc
-"""
+
 
 import discord
 import random
@@ -159,4 +156,4 @@ async def before():
 
 called_once_a_day.start()"""
 
-client.run("ODU2ODg1MzY1NTI0NTI5MjE0.YNHirw.Wjncn5ikWndMCTdRBi6iH-atADc")
+client.run("Token")
